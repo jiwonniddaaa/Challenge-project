@@ -5,10 +5,10 @@ const images = [
     "3.jpg"
 ]
 const locate = [
-    "Amalfi, Amalfi Coast",
-    "Paris, arc de triomphe",
-    "London, tower bridge",
-    "Rome, trevi fountain",
+    "Mercury",
+    "B612",
+    "Spica",
+    "Achernar",
 ]
 const random = Math.floor(Math.random() * images.length);
 const chosenImage = images[random];
