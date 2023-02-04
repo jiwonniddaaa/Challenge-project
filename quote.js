@@ -12,32 +12,32 @@ const quotes = [
         author: "가이벨",
     },
     {
-        quote: "이 또한 지나가리라.",
-        author: "솔로몬",
+        quote: "A flower cannot blossom without sunshine, and man cannot live without love.",
+        author: "Max Muller",
     },
     {
-        quote: "고통 뒤에 즐거움은 달콤하다.",
-        author: "존 드라이든",
+        quote: "우리가 아는 유일한 건, 모든 것이 계획대로만 흘러가지는 않는다는 거야.",
+        author: "라이온 킹",
     },
     {
-        quote: "눈물 속에서 갈 길을 못 본다.",
-        author: "윌리엄 베넘",
+        quote: "안전 지대 바깥에서 모험을 해보세요. 보상은 가치가 있을거에요.",
+        author: "라푼젤",
     },
     {
-        quote: "가장 바쁜 사람이 가장 많은 시간을 갖는다.",
-        author: "비네",
+        quote: "익숙한 곳을 벗어나 보세요. 그것의 보상은 분명히 가치가 있을거에요.",
+        author: "라푼젤",
     },
     {
-        quote: "가장 큰 위험은 위험없는 삶이다.",
-        author: "스티븐 코비",
+        quote: "네가 매일 행복할 수는 없지만, 행복한 일들은 매일 있단다.",
+        author: "곰돌이 푸",
     },
     {
-        quote: "꿈꾸지 않는 자에게는 절망도 없다.",
-        author: "조지 버나드 쇼",
+        quote: "내 기분은 나만이 정할 수 있어. 오늘 나는 '행복'으로 정할래.",
+        author: "이상한 나라의 앨리스",
     },
     {
-        quote: "훌륭한 행동이 훌륭한 말보다 낫다.",
-        author: "벤자민 프랭클린",
+        quote: "어떠한 슬픔이 닥쳐도, 믿음을 잃지 않으면, 당신이 원하는 꿈이 이루어질 거에요.",
+        author: "신데렐라",
     },
 ];
 
